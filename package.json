@@ -1,0 +1,10 @@
+{
+  "name": "cdk-templates",
+  "version": "1.0.0",
+  "description": "Templates of Infrastructure as Code (IaC) for AWS CDK.",
+  "main": "index.js",
+  "repository": "https://github.com/davikiyo/cdk-templates.git",
+  "author": "davikiyo@gmail.com",
+  "license": "MIT",
+  "private": true
+}
